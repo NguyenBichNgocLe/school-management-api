@@ -1,4 +1,4 @@
-# Schoole Management System
+# Schoole Management API
 
 ## Usage
 
